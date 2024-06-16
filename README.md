@@ -3,7 +3,7 @@
 
 This project provides a LaTeX Template for anyone who wants to create their Resume.
 
-Some sections are commented out.
+Create a pull request if you want to add something in the template. Let's create an amazing template for everyone out there to use 🤠.
 
 Write me on [aryaveersingh2003@gmail.com](mailto:aryaveersingh2003@gmail.com) to add anything for your custom usecase, I'll try to do so. Also mail me incase you have any suggestions.
 
